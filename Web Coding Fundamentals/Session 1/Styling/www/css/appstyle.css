@@ -1,2 +1,21 @@
+body {
+	background-colour:black;
+	color: red;
+}
 
+h3{
+	color: white;
+	text-align: center;
+}
+
+#SimpleDiv {
+	background-color: gray;
+
+	color: #FF00FF;
+
+
+	border-style: solid groove;
+	border-width: 5px;
+	border-color: green;
+}
 
